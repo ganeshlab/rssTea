@@ -20,3 +20,5 @@ https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu
 https://feeds.megaphone.fm/the-town-with-matthew-belloni
 https://feeds.megaphone.fm/BVLLC2163264914
 https://feeds.megaphone.fm/zach-lowe
+https://feeds.simplecast.com/RNdRiRAt
+https://api.substack.com/feed/podcast/4163578.rss
