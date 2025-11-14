@@ -13,7 +13,6 @@ https://linuxmatters.sh/episode/index.xml
 https://rss.buzzsprout.com/1411126.rss
 https://feeds.acast.com/public/shows/680699031da48c8a6678fb35
 https://feeds.acast.com/public/shows/68a733cc352b565deb2edbc5
-https://anchor.fm/s/ff8b4e30/podcast/rss
 https://www.thenakedscientists.com/naked_scientists_podcast.xml
 https://feeds.simplecast.com/E2jUGQf5
 https://feed.theskepticsguide.org/feed/rss.aspx?feed=sgu
